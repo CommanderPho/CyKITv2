@@ -121,3 +121,11 @@ Todo: <br>
 * Feel free to offer comments and suggests via Issues, for further <br>
 information check our Discord server.  Submit new push requests,  <br>
 if you have something to contribute. <br>
+
+
+# Pho Instructions 2025-04-21
+```bash
+git config --global user.email "PhoHale@gmail.com"
+git config --global user.name "Pho Hale"
+
+```
