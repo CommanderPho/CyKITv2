@@ -130,6 +130,14 @@ git config --global user.name "Pho Hale"
 
 ```
 
+## New 2025-04-21 - `requirements.txt`
+```
+pywinusb==0.4.2
+pycrypto==2.6.1
+hidapi==0.7.99.post21
+-e git+git@gitlab.com:CommanderPho1/pyhidapi.git@4dd729929a7612745f7bbc56540b9f13a0f92ede#egg=pyhidapi
+```
+
 
 ### Old requirements.txt
 ```
@@ -140,3 +148,4 @@ hidapi==0.7.99.post21
 -e git+git@github.com:NF6X/pyhidapi.git@4dd729929a7612745f7bbc56540b9f13a0f92ede#egg=pyhidapi
 
 ```
+
